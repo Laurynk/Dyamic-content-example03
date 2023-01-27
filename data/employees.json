@@ -1,0 +1,22 @@
+[
+    {
+    "firstName": "Mark",
+    "lastName": "Lastname: Lee",
+    "position": "Position: Rapper",
+    "age": "Age: 23"
+    },
+
+    {
+    "firstName": "Taeyong",
+    "lastName": "Lastname: Lee",
+    "position": "Position: Leader",
+    "age": "Age: 27"
+    },
+
+    {
+    "firstName": "Kun",
+    "lastName": "Lastname: Qian",
+    "position": "Position: Leader",
+    "age": "Age: 27"
+    }
+]
